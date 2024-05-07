@@ -1,0 +1,15 @@
+/Users/macintoshhd/Projects/CompteEnBanque/CompteEnBanque/bin/Debug/net7.0/CompteEnBanque
+/Users/macintoshhd/Projects/CompteEnBanque/CompteEnBanque/bin/Debug/net7.0/CompteEnBanque.deps.json
+/Users/macintoshhd/Projects/CompteEnBanque/CompteEnBanque/bin/Debug/net7.0/CompteEnBanque.runtimeconfig.json
+/Users/macintoshhd/Projects/CompteEnBanque/CompteEnBanque/bin/Debug/net7.0/CompteEnBanque.dll
+/Users/macintoshhd/Projects/CompteEnBanque/CompteEnBanque/bin/Debug/net7.0/CompteEnBanque.pdb
+/Users/macintoshhd/Projects/CompteEnBanque/CompteEnBanque/obj/Debug/net7.0/CompteEnBanque.csproj.AssemblyReference.cache
+/Users/macintoshhd/Projects/CompteEnBanque/CompteEnBanque/obj/Debug/net7.0/CompteEnBanque.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macintoshhd/Projects/CompteEnBanque/CompteEnBanque/obj/Debug/net7.0/CompteEnBanque.AssemblyInfoInputs.cache
+/Users/macintoshhd/Projects/CompteEnBanque/CompteEnBanque/obj/Debug/net7.0/CompteEnBanque.AssemblyInfo.cs
+/Users/macintoshhd/Projects/CompteEnBanque/CompteEnBanque/obj/Debug/net7.0/CompteEnBanque.csproj.CoreCompileInputs.cache
+/Users/macintoshhd/Projects/CompteEnBanque/CompteEnBanque/obj/Debug/net7.0/CompteEnBanque.dll
+/Users/macintoshhd/Projects/CompteEnBanque/CompteEnBanque/obj/Debug/net7.0/refint/CompteEnBanque.dll
+/Users/macintoshhd/Projects/CompteEnBanque/CompteEnBanque/obj/Debug/net7.0/CompteEnBanque.pdb
+/Users/macintoshhd/Projects/CompteEnBanque/CompteEnBanque/obj/Debug/net7.0/CompteEnBanque.genruntimeconfig.cache
+/Users/macintoshhd/Projects/CompteEnBanque/CompteEnBanque/obj/Debug/net7.0/ref/CompteEnBanque.dll

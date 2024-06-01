@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Chasse_aux_trésor/1.0.0": {
+        "runtime": {
+          "Chasse_aux_trésor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Chasse_aux_trésor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

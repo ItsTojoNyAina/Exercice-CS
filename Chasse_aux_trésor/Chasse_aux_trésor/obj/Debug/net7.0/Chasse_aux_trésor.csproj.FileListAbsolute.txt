@@ -1,0 +1,15 @@
+/Users/macintoshhd/Projects/Chasse_aux_trésor/Chasse_aux_trésor/bin/Debug/net7.0/Chasse_aux_trésor
+/Users/macintoshhd/Projects/Chasse_aux_trésor/Chasse_aux_trésor/bin/Debug/net7.0/Chasse_aux_trésor.deps.json
+/Users/macintoshhd/Projects/Chasse_aux_trésor/Chasse_aux_trésor/bin/Debug/net7.0/Chasse_aux_trésor.runtimeconfig.json
+/Users/macintoshhd/Projects/Chasse_aux_trésor/Chasse_aux_trésor/bin/Debug/net7.0/Chasse_aux_trésor.dll
+/Users/macintoshhd/Projects/Chasse_aux_trésor/Chasse_aux_trésor/bin/Debug/net7.0/Chasse_aux_trésor.pdb
+/Users/macintoshhd/Projects/Chasse_aux_trésor/Chasse_aux_trésor/obj/Debug/net7.0/Chasse_aux_trésor.csproj.AssemblyReference.cache
+/Users/macintoshhd/Projects/Chasse_aux_trésor/Chasse_aux_trésor/obj/Debug/net7.0/Chasse_aux_trésor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macintoshhd/Projects/Chasse_aux_trésor/Chasse_aux_trésor/obj/Debug/net7.0/Chasse_aux_trésor.AssemblyInfoInputs.cache
+/Users/macintoshhd/Projects/Chasse_aux_trésor/Chasse_aux_trésor/obj/Debug/net7.0/Chasse_aux_trésor.AssemblyInfo.cs
+/Users/macintoshhd/Projects/Chasse_aux_trésor/Chasse_aux_trésor/obj/Debug/net7.0/Chasse_aux_trésor.csproj.CoreCompileInputs.cache
+/Users/macintoshhd/Projects/Chasse_aux_trésor/Chasse_aux_trésor/obj/Debug/net7.0/Chasse_aux_trésor.dll
+/Users/macintoshhd/Projects/Chasse_aux_trésor/Chasse_aux_trésor/obj/Debug/net7.0/refint/Chasse_aux_trésor.dll
+/Users/macintoshhd/Projects/Chasse_aux_trésor/Chasse_aux_trésor/obj/Debug/net7.0/Chasse_aux_trésor.pdb
+/Users/macintoshhd/Projects/Chasse_aux_trésor/Chasse_aux_trésor/obj/Debug/net7.0/Chasse_aux_trésor.genruntimeconfig.cache
+/Users/macintoshhd/Projects/Chasse_aux_trésor/Chasse_aux_trésor/obj/Debug/net7.0/ref/Chasse_aux_trésor.dll
